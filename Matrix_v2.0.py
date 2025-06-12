@@ -1,3 +1,4 @@
+# Ein textbasiertes Adventure-Spiel im Stil der 80er/90er Jahre, inspiriert von "The Matrix"
 import time
 import textwrap
 import random
